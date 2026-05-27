@@ -13,5 +13,16 @@ Interactive Chinese pet personality quiz built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
+## Screenshots
+
+### Homepage
+![Homepage](home.png)
+
+### Pet Info Page
+![Pet Info Page](pet-info.png)
+
+### Result Page
+![Result Page](result.png)
+
 ## Run Locally
 Open `index.html` in a browser.
